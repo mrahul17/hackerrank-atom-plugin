@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hackerrank",
+        "command": "hackerrank:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hackerrank",
+          "submenu": [
+            {
+              "label": "Run Code",
+              "command": "hackerrank:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hackerrank",
+  "main": "./lib/hackerrank",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "hackerrank:toggle"
+  },
+  "repository": "https://github.com/atom/hackerrank",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "await": "^0.2.6",
+    "cookie": "^0.3.1",
+    "request": "^2.81.0",
+    "sleep-promise": "^2.0.0",
+    "tough-cookie": "^2.3.2"
+  }
+}
