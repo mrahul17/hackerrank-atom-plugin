@@ -15,8 +15,12 @@
           "label": "hackerrank",
           "submenu": [
             {
+              "label": "Submit Code",
+              "command": "hackerrank:submit"
+            },
+            {
               "label": "Run Code",
-              "command": "hackerrank:toggle"
+              "command": "hackerrank:run"
             }
           ]
         }

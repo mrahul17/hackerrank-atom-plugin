@@ -5,7 +5,8 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "hackerrank:toggle"
+    "atom-workspace": "hackerrank:run",
+    "atom-workspace": "hackerrank:submit"
   },
   "repository": "https://github.com/atom/hackerrank",
   "license": "MIT",
