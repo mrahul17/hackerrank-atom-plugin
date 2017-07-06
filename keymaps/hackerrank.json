@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-r": "hackerrank:run",
+    "ctrl-alt-r": "hackerrank:compile",
     "ctrl-alt-s": "hackerrank:submit"
   }
 }

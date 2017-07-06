@@ -19,8 +19,8 @@
               "command": "hackerrank:submit"
             },
             {
-              "label": "Run Code",
-              "command": "hackerrank:run"
+              "label": "Compile Code",
+              "command": "hackerrank:compile"
             }
           ]
         }
