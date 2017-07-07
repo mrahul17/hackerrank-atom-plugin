@@ -2,9 +2,9 @@
   "name": "hackerrank",
   "main": "./lib/hackerrank",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom plugin for code submissions on Hackerrank",
   "keywords": [],
-  "repository": "https://github.com/atom/hackerrank",
+  "repository": "https://github.com/light94/hackerrank-atom-plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
