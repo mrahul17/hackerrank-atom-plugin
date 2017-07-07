@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle hackerrank",
-        "command": "hackerrank:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
