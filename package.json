@@ -9,6 +9,12 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "activationCommands": {
+    "atom-workspace": [
+      "hackerrank:compile",
+      "hackerrank:submit"
+    ]
+  },
   "dependencies": {
     "await": "^0.2.6",
     "cookie": "^0.3.1",
