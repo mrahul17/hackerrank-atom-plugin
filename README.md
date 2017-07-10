@@ -5,7 +5,13 @@
 
 The plugin authenticates you on the Hackerrank platform and allows *code compile* and *code submission* capabilities.
 
-It picks up the authentication credentials from your environment, so set them (hr_username, hr_password) before using this plugin.
+It picks up the authentication credentials from *config.json* placed in your home folder. A sample file would look like the following:
+```
+{
+  "username": "my_username",
+  "password": "my_password"
+}
+```
 
 
 #### Usage
