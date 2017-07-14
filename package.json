@@ -1,7 +1,7 @@
 {
   "name": "hackerrank-atom-plugin",
   "main": "./lib/hackerrank",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Atom plugin for code submissions on Hackerrank",
   "keywords": [],
   "repository": "https://github.com/light94/hackerrank-atom-plugin",
