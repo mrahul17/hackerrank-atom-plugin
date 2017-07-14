@@ -1,5 +1,5 @@
 {
-  "name": "hackerrank",
+  "name": "hackerrank-atom-plugin",
   "main": "./lib/hackerrank",
   "version": "0.0.0",
   "description": "Atom plugin for code submissions on Hackerrank",
